@@ -1,5 +1,4 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-
+?spin=true&scan=true&eq_color=rainbow&theme=dark
 - 🙋🏻‍♀️ Hi, I’m @Krystalm9
 - ️🕶️ I’m interested in creating intuitive and visually engaging user interfaces.
 - ◾  I’m currently learning advance prototypin techniques and exploring at code design. 
