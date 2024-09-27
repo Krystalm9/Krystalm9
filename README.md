@@ -1,4 +1,4 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/3QaPy1KgI7nu9FJEQUgn6h)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 - 🙋🏻‍♀️ Hi, I’m @Krystalm9
 - ️🕶️ I’m interested in creating intuitive and visually engaging user interfaces.
