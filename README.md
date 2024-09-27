@@ -1,3 +1,5 @@
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/)
+
 - 🙋🏻‍♀️ Hi, I’m @Krystalm9
 - ️🕶️ I’m interested in creating intuitive and visually engaging user interfaces.
 - ◾  I’m currently learning advance prototypin techniques and exploring at code design. 
